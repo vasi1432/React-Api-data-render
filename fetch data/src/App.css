@@ -1,0 +1,9 @@
+.child {
+  background-color: wheat;
+  color: black;
+  padding: 20px;
+  margin: 20px;
+}
+.parent {
+  display: flex;
+}
