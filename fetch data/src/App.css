@@ -1,9 +1,15 @@
 .child {
-  background-color: wheat;
+  background-color: white;
   color: black;
   padding: 20px;
   margin: 20px;
 }
 .parent {
   display: flex;
+}
+.child p {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
 }
